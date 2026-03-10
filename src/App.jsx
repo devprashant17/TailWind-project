@@ -2,8 +2,6 @@ import bg from './assets/bg.jpeg'
 import React from "react";
 import { SideCard } from './components/sidecard';
 import { MainCard } from './components/maincard';
-import { WebinarOptions } from './components/webinaroptions';
-import { Schedule } from './components/schedule';
 
 function App(){
   return <div style={{ backgroundImage: `url(${bg})` }} className="flex flex-col justify-end h-screen bg-cover bg-center">
@@ -15,7 +13,7 @@ function App(){
 
      
     {/*<Schedule />
-    <WebinarOptions /> */}
+     */}
 
   </div>
 }
