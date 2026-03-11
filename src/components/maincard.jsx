@@ -1,7 +1,7 @@
 import React from "react";
-import { ProfileCard } from './profilecard';
-import { WebinarOptions } from "./webinaroptions";
-import { Schedule } from "./schedule";
+import { ProfileCard } from '../assets/responsiveComponents/profilecard';
+import { WebinarOptions } from "../assets/responsiveComponents/webinaroptions";
+import { Schedule } from "../assets/responsiveComponents/schedule";
 
 
 export function MainCard(){

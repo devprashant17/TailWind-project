@@ -1,21 +1,10 @@
-import bg from './assets/bg.jpeg'
-import React from "react";
-import { SideCard } from './components/sidecard';
-import { MainCard } from './components/maincard';
+import { Cards } from "./assets/responsiveComponents/abc"
+import React from "react"
 
 function App(){
-  return <div style={{ backgroundImage: `url(${bg})` }} className="flex flex-col justify-end h-screen bg-cover bg-center">
-    <div className="flex items-end grid grid-cols-20 h-200 ">
-      <SideCard />
-      <MainCard />
+    return <div>
+        <Cards />
     </div>
-    
-
-     
-    {/*<Schedule />
-     */}
-
-  </div>
 }
 
 export default App;
