@@ -1,5 +1,5 @@
 import React from "react"
-import threebar from '../threebars.png'
+import threebar from '../assets/threebars.png'
 import { useState } from "react";
 import { ProfileCard } from './profilecard';
 import { WebinarOptions } from "./webinaroptions";

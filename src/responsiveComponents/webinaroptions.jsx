@@ -13,7 +13,7 @@ export function WebinarOptions(){
             </div>
         </div>
         <div className="mt-10">
-            <img className="size-15" src="https://imgs.search.brave.com/4Z7XK96_T9-AErMdX4kjCKbg5swhr5yoM7nKelOUNGY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvODY2/MDI1Njc4L3ZlY3Rv/ci92aWRlby1jYW1l/cmEtdGhpbi1saW5l/LXZlY3Rvci1pY29u/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1rZW5HeG5jZTRP/b1R4S1JwemRDWVAx/QXhldnVxdEFOTW5U/YlB4bjkzcm9FPQ"/>
+            <img className="ml-8 size-15" src="https://imgs.search.brave.com/4Z7XK96_T9-AErMdX4kjCKbg5swhr5yoM7nKelOUNGY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvODY2/MDI1Njc4L3ZlY3Rv/ci92aWRlby1jYW1l/cmEtdGhpbi1saW5l/LXZlY3Rvci1pY29u/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1rZW5HeG5jZTRP/b1R4S1JwemRDWVAx/QXhldnVxdEFOTW5U/YlB4bjkzcm9FPQ"/>
             <p>Open Recordings</p>
         </div>
     </div>

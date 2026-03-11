@@ -1,4 +1,4 @@
-import { Cards } from "./assets/responsiveComponents/abc"
+import { Cards } from "./responsiveComponents/abc"
 import React from "react"
 
 function App(){
